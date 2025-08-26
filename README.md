@@ -10,3 +10,5 @@ Whether its deploying an ETL pipeline or rebuilding our entire product from the 
 [![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHub-Esteban&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/GitHub-Esteban)
 
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GitHub-Esteban&theme=dark)](https://github.com/GitHub-Esteban)
+
+![Profile Views](https://komarev.com/ghpvc/?username=GitHub-Esteban)
